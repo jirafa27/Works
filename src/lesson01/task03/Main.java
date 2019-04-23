@@ -1,5 +1,6 @@
-package part1.lesson01.task03;
+package lesson01.task03;
 import java.util.Random;
+
 public class Main {
     public static void main (String[] args)
     {
